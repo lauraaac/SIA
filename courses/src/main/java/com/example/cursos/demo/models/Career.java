@@ -26,6 +26,7 @@ public class Career{
     }
     
 
+
     public String getName() {
         return this.name;
     }
@@ -33,6 +34,7 @@ public class Career{
     public void setName(String name) {
         this.name = name;
     }
+    
     
     
 }
